@@ -1,4 +1,4 @@
-# PersonalAssistant
+# brain-in-a-jar 🧠🫙
 
 Two Claude Code skills that learn how you make decisions, then let agents apply that judgement when you're not around.
 
@@ -23,7 +23,7 @@ These steps assume the repo lives at `~/PersonalAssistant`, because both skills 
 1. Clone the repo:
 
    ```bash
-   git clone <repo-url> ~/PersonalAssistant
+   git clone https://github.com/ebomcke/brain-in-a-jar.git ~/PersonalAssistant
    ```
 
 2. Make the skills available in every project:
